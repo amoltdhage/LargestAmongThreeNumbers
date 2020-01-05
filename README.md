@@ -1,7 +1,6 @@
 # LargestAmongThreeNumbers
 
-# In the program below, the three numbers are stored in num1, num2 and num3 respectively.
-Or we can take three numbers from user
+# In the program below, the three numbers are stored in num1, num2 and num3 respectively ors we can take three numbers from user
 
 # We've used the if...elif...else ladder to find the largest among the three and display it.
 
