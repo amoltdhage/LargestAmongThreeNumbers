@@ -8,12 +8,12 @@
 # Output
 
 Enter first number: 1
-1
+
 
 Enter second number: 2
-2
+
 
 Enter third number: 3
-3
+
 
 The largest number is 3.0
